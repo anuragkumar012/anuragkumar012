@@ -1,2 +1,89 @@
-# profile
-Hello world😎 Welcome on my GitHub 
+<h1 align="center">👋 Hello World, I'm Anurag Kumar</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Data+Science+Student+%7C+AI+Explorer;ML+%2B+DL+Enthusiast+%7C+Code+%26+Coffee+Lover;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+</p>
+
+---
+
+## 🚀 About Me
+
+Hi there! I'm **Anurag Kumar**, a passionate 👨‍🎓 **3rd-year Data Science student** from 🇮🇳 India who loves transforming data into real-world solutions.
+
+- 🎓 Pursuing B.Sc. in Data Science  
+- 🧠 Fascinated by **AI, Machine Learning, Deep Learning**, and **NLP**
+- 🔍 Enjoy exploring data, building models, and telling stories through visualization  
+- 💡 I learn by experimenting, building, and yes—breaking things 😅  
+- 🌱 Currently learning model deployment, neural networks, and AI agent development  
+- 🎯 **Goal:** Become a creative and impactful **AI Engineer**
+
+---
+
+## 💻 Tech Stack & Tools I Use
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,numpy,pandas,scikit-learn,opencv,jupyter,vscode,github,git,anaconda" />
+</div>
+
+---
+
+## 🧰 Technologies at My Fingertips
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
+![Colab](https://img.shields.io/badge/-Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+
+---
+
+## 🔭 Current Focus
+
+- 🤖 Building AI/ML models using TensorFlow & PyTorch  
+- 🧾 Practicing NLP projects & chatbots  
+- 🚀 Learning MLOps & cloud-based deployment  
+- 🛠️ Developing AI companions with memory & personality  
+- 📈 Contributing to open-source and personal side-projects
+
+---
+
+## 🎮 My Animated Snake Game (GitHub Contribution Tracker)
+
+<p align="center">
+  <img src="https://github.com/anuragkumar012/anuragkumar012/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anurag-kumar-8997172b3" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:anuragkumar8824ak@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/anuragkumar012" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragkumar012&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragkumar012&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+<p align="center">✨ *“The best way to learn is to build. Break things, fix them, and grow with every line of code.”* ✨</p>
