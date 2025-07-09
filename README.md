@@ -59,6 +59,16 @@ Hi there! I'm **Anurag Kumar**, a passionate 👨‍🎓 **3rd-year Data Science
 </div>
 
 
+## 🎮 Mini Projects
+
+- [🔤 Hangman - Python CLI Game](https://github.com/anuragkumar012/hangman-python-cli)  
+  A classic terminal-based Hangman game in Python. Fun and simple!
+
+---
+
+
+
+
 ## 🌐 Connect With Me
 
 <p align="center">
