@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hello World, I'm Anurag Kumar</h1>
+<h1 align="center">👋 Hello World, Welcome to My GitHub Profile 🤖</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Data+Science+Student+%7C+AI+Explorer;ML+%2B+DL+Enthusiast+%7C+Code+%26+Coffee+Lover;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-</p>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=time&size=25&pause=1000&color=FFF41EF0&background=0404223E&width=505&height=55&lines=Aspiring+Data+Science+Engineer+;+AI+%26+DS+%7C++Machine+Learning+%7C+;+Practitioner+++Building+Smart+Systems+with+Code+%26+Math+++;Curious+Mind+on+a+Data+Driven+Journey+%F0%9F%9A%80" alt="Typing SVG" /></a>
+</div>
 
 ---
 
@@ -10,7 +10,7 @@
 
 Hi there! I'm **Anurag Kumar**, a passionate 👨‍🎓 **3rd-year Data Science student** from 🇮🇳 India who loves transforming data into real-world solutions.
 
-- 🎓 Pursuing B.Sc. in Data Science  
+- 🎓 Pursuing B.Tech in Artificial Intelligence & Data Science  
 - 🧠 Fascinated by **AI, Machine Learning, Deep Learning**, and **NLP**
 - 🔍 Enjoy exploring data, building models, and telling stories through visualization  
 - 💡 I learn by experimenting, building, and yes—breaking things 😅  
@@ -53,13 +53,11 @@ Hi there! I'm **Anurag Kumar**, a passionate 👨‍🎓 **3rd-year Data Science
 
 ---
 
-## 🎮 My Animated Snake Game (GitHub Contribution Tracker)
 
-<p align="center">
-  <img src="https://github.com/anuragkumar012/anuragkumar012/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI GIF" width="400"/>
+</div>
 
----
 
 ## 🌐 Connect With Me
 
